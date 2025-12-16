@@ -1,0 +1,109 @@
+**Flashcards: How to Learn Machine Learning in 2025**
+
+**Q: What two main things does the speaker say are needed to learn machine learning in 2025?**
+A: A laptop and a list of steps you need to take.
+
+**Q: How long did it take the speaker to become a research scientist at an AI startup?**
+A: Over 6 years.
+
+**Q: What is the first recommended key step for learning machine learning?**
+A: Learning Python.
+
+**Q: Why is Python important for machine learning?**
+A: It is the programming language used by anyone working in ML, and many subsequent steps build on its fundamental understanding.
+
+**Q: What specific Python basics should one know?**
+A: What a list and dictionary are (and their differences), how to implement a for loop and if else statements, list comprehension, and class inheritance.
+
+**Q: How should one go about learning beginner Python?**
+A: Type "beginner Python tutorial" into YouTube or Google, use free resources, and always code along.
+
+**Q: What should one do after learning Python basics?**
+A: Build some cool, little fun projects.
+
+**Q: What are examples of beginner Python projects mentioned?**
+A: A calculator, a simple website, or a Snake game.
+
+**Q: What is the advice regarding time spent on beginner Python projects?**
+A: Have fun but don't spend too much time, especially if you already know how to code.
+
+**Q: Does learning machine learning require complex math?**
+A: No, much of it can be understood with really fundamental, mostly undergraduate-level concepts.
+
+**Q: What are the three to four main math topics to learn for ML?**
+A: How to do derivatives and integrals (integrals rarely relevant), what vectors and matrices are and basic operations, basic concepts behind probability theory (mainly Bayes rule), and some random math tricks like log and summation rules.
+
+**Q: What book is highly recommended for learning math in the context of machine learning?**
+A: "Why Machines Learn."
+
+**Q: What topics does "Why Machines Learn" cover?**
+A: How linear equations apply to neurons, vectors and the dot product, matrices and relevant operations, math behind training neural networks (gradient descent), probability theory, and convolutional neural networks.
+
+**Q: What should one do if "Why Machines Learn" doesn't cover a specific topic (e.g., derivatives) or if something isn't understood?**
+A: Look it up using YouTube videos, blog posts, or LLMs (while being aware that LLMs can hallucinate).
+
+**Q: What specific math course is recommended as an alternative or supplement to the book?**
+A: Khan Academy.
+
+**Q: What is the next step after learning fundamental math?**
+A: Learn everything relevant to machine learning and deep learning.
+
+**Q: Why does the speaker deliberately split up machine learning and deep learning?**
+A: They are a bit different and taught separately, and classical machine learning is core knowledge not to be skipped.
+
+**Q: What course is recommended for classical machine learning, new models, and practical advice?**
+A: Andrew Ng's Machine Learning Specialization course.
+
+**Q: What specific ML models and skills are learned in Andrew Ng's specialization?**
+A: Logistic regression, decision trees, recommended systems, practical advice on developing ML models, TensorFlow, and implementing first ML pipelines.
+
+**Q: What important decision must be made regarding deep learning?**
+A: Whether to learn deep learning to apply current techniques (applied path) or for a deeper theoretical understanding (research path).
+
+**Q: What is the "applied path" for learning deep learning?**
+A: Take Andrew Ng's Deep Learning Specialization, then supplement with Stanford's CS25 series and Andrej Karpathy's YouTube videos for topics like the transformer architecture.
+
+**Q: What is the "research path" for learning deep learning?**
+A: Work through the book "Understanding Deep Learning."
+
+**Q: What is a key feature of the "Understanding Deep Learning" book?**
+A: It's an amazing, free resource (available as a free PDF online) with a ton of content about deep learning, covering relevant models with theoretical and practical exercises.
+
+**Q: What deep learning architectures are noted as *not* fully covered by "Understanding Deep Learning"?**
+A: RNNs and LSTMs.
+
+**Q: Why are projects emphasized as crucial in machine learning?**
+A: ML is an empirical and practical field, so coding a lot is essential no matter the job.
+
+**Q: What fundamental ML developer tech libraries should one learn?**
+A: NumPy, Pandas, and Matplotlib.
+
+**Q: What are the recommended machine learning frameworks to learn?**
+A: PyTorch, TensorFlow, or potentially Jax.
+
+**Q: Where should one start with practical machine learning projects?**
+A: Kaggle, beginning with earlier or beginner-level projects to avoid frustration.
+
+**Q: What is the speaker's favorite advanced project recommendation?**
+A: Re-implementing a research paper.
+
+**Q: What is important when re-implementing a paper?**
+A: Pick a paper that is more suited to your level so you don't get frustrated and give up.
+
+**Q: What is an important mindset to have about early projects?**
+A: Your first project will not be good, your second probably not the best, but each project will be increasingly complex and impressive.
+
+**Q: What bonus tip is given for showing your work throughout the ML journey?**
+A: Write X/LinkedIn posts, blog posts, make working demo websites, or even write papers.
+
+**Q: How did showing work help the speaker personally?**
+A: Working on a project and writing a blog post about it once led to an internship interview with a Google DeepMind researcher.
+
+**Q: What is considered the "final level" or "final boss" of showing your work?**
+A: Getting your paper published at a pretty nice conference.
+
+**Q: What is a crucial aspect to remember about the machine learning journey?**
+A: It takes a lot of time and will very likely be really, really challenging at some point.
+
+**Q: What is the final piece of advice given for learning machine learning?**
+A: Don't give up and try to have as much fun as possible.
